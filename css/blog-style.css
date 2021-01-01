@@ -96,9 +96,10 @@ body {
 
 /*BLOG IMAGE AND TITLE BEGINS  */
 
-.blog-title {
+.Blog-Title {
     text-align: center;
     color: white;
+
 
 }
 
@@ -137,6 +138,7 @@ main h3 {
     font-size: 2rem;
 }
 
+
 /*BLOG IMAGE AND TITLE ENDS  */
 
 .row:after {
@@ -173,7 +175,7 @@ h2 {
 .card {
     padding: 20px;
     background-color: #606060;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .card img {
@@ -202,6 +204,18 @@ footer {
         width: 100%;
         padding: 0px;
     }
+}
+
+
+.left-column {
+    width: 540px;
+    height: auto;
+
+}
+
+.left-img {
+    height: 540px;
+    width: auto;
 }
 
 
